@@ -1,3 +1,8 @@
 # GdW
 Meilensteine
-1a
+Aufgabe 1 bis 5 wurden hochgeladen.
+Zeile eins im Code wird korrigiert auf ‚readline'.
+Die erste Version des Domänenmodells wurde hochgeladen.
+Mario Faske wurde als Collobration hinzugefügt.
+Suche nach Herr Fischer in GitHub.
+
