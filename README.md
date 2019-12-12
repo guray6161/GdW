@@ -7,3 +7,6 @@ Mario Faske wurde als Colloborator hinzugefügt.
 Suche nach Herr Fischer in GitHub.
 Audio Aufnahme Via OBS nicht möglich.
 Es wird versucht eine Aufnahme über ein Smartphone zu erstellen.
+Smatphone wird vom Laptop nicht erkannt.
+Die Videos zu den Aufgaben wurden erstellt und hochgeladen. Hierbei musste man externe Soundquellen benutzen.
+Bilder zur Aufgabe wurden hochgeladen.
